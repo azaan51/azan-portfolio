@@ -473,7 +473,7 @@ main { overflow-x: hidden; }
 }
 
 .hero-banner {
-  max-width: 500px;
+  max-width: 1000px;
   width: 125%;
   margin-bottom: 30px;
 }
